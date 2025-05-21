@@ -1,4 +1,4 @@
-# JulesIA Groupe1
+# JulesIA Groupe 3
 
 ## Mission 1
 
