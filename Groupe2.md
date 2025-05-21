@@ -1,4 +1,4 @@
-### Jule IA Groupe 2
+# Jule IA Groupe 2
 
 ## Mission 1
 
